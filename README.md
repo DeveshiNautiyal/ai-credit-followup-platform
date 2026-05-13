@@ -216,7 +216,7 @@ HARD RULES (violations = rejected output):
 | Stage 2 | 8–14 days overdue | Polite but Firm | Payment still pending | Confirm payment date |
 | Stage 3 | 15–21 days overdue | Formal & Serious | Escalating concern, credit impact | Respond within 48 hrs |
 | Stage 4 | 22–30 days overdue | Stern & Urgent | Final reminder before escalation | Pay immediately or call |
-| Stage 5 | 30+ days overdue | 🚨 Legal Flag | Human review required | Assign to finance manager |
+| Stage 5 | 30+ days overdue |  Legal Flag | Human review required | Assign to finance manager |
 
 ---
 
