@@ -1,0 +1,8 @@
+invoice_no,client_name,client_email,amount,due_date,days_overdue,follow_up_count,payment_link,contact_phone
+INV-2025-001,Rajesh Kumar,rajesh.kumar@techcorp.in,45000,2025-04-20,5,0,https://pay.tci.in/INV-2025-001,+91-98765-43210
+INV-2025-002,Priya Sharma,priya.sharma@globaltrade.com,128000,2025-04-13,12,1,https://pay.tci.in/INV-2025-002,+91-99887-76655
+INV-2025-003,Amit Verma,amit.verma@infraworks.co,72500,2025-04-07,18,2,https://pay.tci.in/INV-2025-003,+91-91234-56789
+INV-2025-004,Sunita Patel,sunita.patel@retailhub.in,210000,2025-03-31,25,3,https://pay.tci.in/INV-2025-004,+91-97654-32109
+INV-2025-005,Vikram Singh,vikram.singh@logistix.com,95000,2025-03-23,33,4,https://pay.tci.in/INV-2025-005,+91-90001-23456
+INV-2025-006,Meera Nair,meera.nair@consultpro.in,55000,2025-04-18,7,0,https://pay.tci.in/INV-2025-006,+91-88888-77777
+INV-2025-007,Arjun Das,arjun.das@manufact.com,310000,2025-04-10,15,2,https://pay.tci.in/INV-2025-007,+91-77654-00123

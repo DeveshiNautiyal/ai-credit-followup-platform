@@ -1,0 +1,77 @@
+[
+  {
+    "invoice_no": "INV-2025-001",
+    "client": "Rajesh Kumar",
+    "amount": 45000,
+    "days_overdue": 5,
+    "action": "DRY_RUN",
+    "stage": 1,
+    "tone": "Warm & Friendly",
+    "subject": "Quick Reminder \u2013 Invoice #INV-2025-001 | Rs.45,000 Due",
+    "body": "Hi Rajesh,\n\nI hope you're doing well! This is a friendly reminder that Invoice #INV-2025-001 for Rs.45,000 was due on 2025-04-20, now 5 days ago.\n\nIf you've already processed this, please disregard. Otherwise, you can pay quickly here:\n\ud83d\udc49 https://pay.tci.in/INV-2025-001\n\nQuestions? Call us: +91-98765-43210\n\nThank you and we look forward to your continued partnership!\n\nWarm regards,\nFinance Team\nTravel Corporation India Ltd"
+  },
+  {
+    "invoice_no": "INV-2025-002",
+    "client": "Priya Sharma",
+    "amount": 128000,
+    "days_overdue": 12,
+    "action": "DRY_RUN",
+    "stage": 2,
+    "tone": "Polite but Firm",
+    "subject": "Payment Pending \u2013 Invoice #INV-2025-002 (12 Days Overdue)",
+    "body": "Dear Priya Sharma,\n\nWe hope this finds you well. Invoice #INV-2025-002 for Rs.128,000, due on 2025-04-13, remains unpaid \u2014 now 12 days overdue.\n\nCould you please confirm your payment date or process it here:\n\ud83d\udc49 https://pay.tci.in/INV-2025-002\n\nFor any concerns, reach us at +91-99887-76655.\n\nRegards,\nFinance Team\nTravel Corporation India Ltd"
+  },
+  {
+    "invoice_no": "INV-2025-003",
+    "client": "Amit Verma",
+    "amount": 72500,
+    "days_overdue": 18,
+    "action": "DRY_RUN",
+    "stage": 3,
+    "tone": "Formal & Serious",
+    "subject": "IMPORTANT: Outstanding Payment \u2013 Invoice #INV-2025-003 (18 Days Overdue)",
+    "body": "Dear Amit Verma,\n\nDespite our previous reminders, Invoice #INV-2025-003 for Rs.72,500 due on 2025-04-07 remains unpaid \u2014 now 18 days overdue.\n\nContinued non-payment may impact your credit terms with us. We formally request your response within 48 hours:\n\ud83d\udc49 https://pay.tci.in/INV-2025-003\n\nContact: +91-91234-56789\n\nYours sincerely,\nFinance Department\nTravel Corporation India Ltd"
+  },
+  {
+    "invoice_no": "INV-2025-004",
+    "client": "Sunita Patel",
+    "amount": 210000,
+    "days_overdue": 25,
+    "action": "DRY_RUN",
+    "stage": 4,
+    "tone": "Stern & Urgent",
+    "subject": "FINAL NOTICE \u2013 Invoice #INV-2025-004 \u2013 Immediate Action Required",
+    "body": "Dear Sunita Patel,\n\nThis is our FINAL reminder. Invoice #INV-2025-004 for Rs.210,000 is now 25 days overdue. We have sent multiple reminders with no resolution.\n\nFailure to remit within 24 hours will result in escalation to our legal and recovery team.\n\nPay Immediately: https://pay.tci.in/INV-2025-004\nOr call: +91-97654-32109\n\nFinance & Legal Department\nTravel Corporation India Ltd"
+  },
+  {
+    "invoice_no": "INV-2025-005",
+    "client": "Vikram Singh",
+    "amount": 95000,
+    "days_overdue": 33,
+    "action": "ESCALATED",
+    "stage": 5,
+    "tone": "Legal Review"
+  },
+  {
+    "invoice_no": "INV-2025-006",
+    "client": "Meera Nair",
+    "amount": 55000,
+    "days_overdue": 7,
+    "action": "DRY_RUN",
+    "stage": 1,
+    "tone": "Warm & Friendly",
+    "subject": "Quick Reminder \u2013 Invoice #INV-2025-006 | Rs.55,000 Due",
+    "body": "Hi Meera,\n\nI hope you're doing well! This is a friendly reminder that Invoice #INV-2025-006 for Rs.55,000 was due on 2025-04-18, now 7 days ago.\n\nIf you've already processed this, please disregard. Otherwise, you can pay quickly here:\n\ud83d\udc49 https://pay.tci.in/INV-2025-006\n\nQuestions? Call us: +91-88888-77777\n\nThank you and we look forward to your continued partnership!\n\nWarm regards,\nFinance Team\nTravel Corporation India Ltd"
+  },
+  {
+    "invoice_no": "INV-2025-007",
+    "client": "Arjun Das",
+    "amount": 310000,
+    "days_overdue": 15,
+    "action": "DRY_RUN",
+    "stage": 3,
+    "tone": "Formal & Serious",
+    "subject": "IMPORTANT: Outstanding Payment \u2013 Invoice #INV-2025-007 (15 Days Overdue)",
+    "body": "Dear Arjun Das,\n\nDespite our previous reminders, Invoice #INV-2025-007 for Rs.310,000 due on 2025-04-10 remains unpaid \u2014 now 15 days overdue.\n\nContinued non-payment may impact your credit terms with us. We formally request your response within 48 hours:\n\ud83d\udc49 https://pay.tci.in/INV-2025-007\n\nContact: +91-77654-00123\n\nYours sincerely,\nFinance Department\nTravel Corporation India Ltd"
+  }
+]

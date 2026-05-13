@@ -1,0 +1,20 @@
+# ══════════════════════════════════════════════
+# Finance Credit Follow-Up Email Agent
+# Travel Corporation India Ltd · Task 2
+# ══════════════════════════════════════════════
+
+# Core data handling
+pandas==2.2.2
+
+# LLM & environment
+google-generativeai==0.8.3     # Gemini 2.0 Flash (optional — falls back to demo mode)
+python-dotenv==1.0.1
+
+# Validation & hallucination guard
+pydantic==2.7.1
+
+# Dashboard UI
+streamlit==1.35.0
+
+# Standard library used (no install needed, listed for clarity):
+# os, json, re, sqlite3, time, datetime, urllib
