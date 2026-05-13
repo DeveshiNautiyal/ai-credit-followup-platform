@@ -14,7 +14,8 @@
 6. [Security Mitigations](#security-mitigations)
 7. [Escalation Matrix](#escalation-matrix)
 8. [Sample Output](#sample-output)
-9. [Folder Structure](#folder-structure)
+9. [screenrecordingvideo](dashboard)
+10. [Folder Structure](#folder-structure)
 
 ---
 
@@ -250,20 +251,33 @@ INV-2025-005 · Vikram Singh · Rs.95,000
 
 ---
 
+## Demo Video
+
+A live demo recording showcasing the complete workflow of the AI agent is included with the submission.
+
+Features demonstrated:
+- Invoice ingestion
+- Overdue detection
+- AI-generated escalation emails
+- Dry-run execution
+- Audit logging
+- Dashboard monitoring
+
 ## Folder Structure
 
 ```
 finance-email-agent/
-├── agent.py                  # Core agent logic
-├── dashboard.py              # Streamlit dashboard
-├── invoices.csv              # Sample invoice data
-├── requirements.txt          # Python dependencies
-├── .env.example              # API key template
-├── .gitignore                # Excludes .env, __pycache__, outputs
-├── README.md                 # This file
+├── Aicreditfollowupagent.mp4       # video representation
+├── agent.py                        # Core agent logic
+├── dashboard.py                    # Streamlit dashboard
+├── invoices.csv                    # Sample invoice dat
+├── requirements.txt                # Python dependencies
+├── .env.example                    # API key template
+├── .gitignore                      # Excludes .env, __pycache__, outputs
+├── README.md                       # This file
 ├── logs/
-│   ├── audit.db              # SQLite audit trail (generated)
-│   └── dry_run_sends.jsonl   # Dry-run email log (generated)
+│   ├── audit.db                    # SQLite audit trail (generated)
+│   └── dry_run_sends.jsonl         # Dry-run email log (generated)
 └── output/
     └── email_run_report.json # Full run report (generated)
 ```
