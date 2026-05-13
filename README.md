@@ -1,4 +1,4 @@
-#  Finance Credit Follow-Up Email Agent
+#  Ai Finance Credit Follow-Up Email Agent 
 
 
 > An AI agent that automatically generates tone-escalating payment follow-up emails for overdue invoices — powered by **Google Gemini 2.0 Flash**, validated by **Pydantic**, logged in **SQLite**, and displayed on a **Streamlit** dashboard.
