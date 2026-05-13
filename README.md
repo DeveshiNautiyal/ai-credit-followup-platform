@@ -5,7 +5,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Agent Architecture](#agent-architecture)
 3. [Features](#features)
@@ -270,4 +270,7 @@ finance-email-agent/
 
 ---
 
-*Built by Deveshi Nautiyal · Travel Corporation India Ltd · AI Enablement Internship*
+## Author
+Deveshi Nautiyal
+UPES Dehradun
+
